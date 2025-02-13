@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?multiline=true&width=500&lines=Full-stack+web+developer.++++++++++)](https://git.io/typing-svg)
 
-<h1 align="center">Hi 👋, I'm Aditya Pratap Singh</h1>
+<h1 align="center">Hello 👋, I'm Aditya Soni</h1>
 <!-- <h3 align="center" color=red>A Fullstack Web & Open Source </h3> -->
 
 
@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Next.js**, doing **Open Source** 
 - 💬 Ask me about **JavaScript, Typescript, React js, Express, Serverless Backends**
-- 📫 How to reach me **as0742004@gmail.com** 
+- 📫 How to reach me **adityasoni113.pkw@gmail.com** 
 - ⚡Fun fact **Love to create**
 
 <h3 align="left">Connect with me:</h3>
@@ -57,10 +57,10 @@
 <table>
   <tr>
     <td><img src="https://github-readme-stats.vercel.app/api?username=AdityaSoni131&theme=vue-dark&show_icons=true&hide_border=true&count_private=true"  display=block width=100% height=auto alt="1"></td>
-    <td><img align="center" src="https://streak-stats.demolab.com?user=aditorito%20&type=png(https://git.io/streak-stats)" alt="pratikgarai" /></td>
+    <td><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AdityaSoni131&theme=vue-dark&hide_border=true" alt="Aditya's streak" /></td>
    </tr>
     <tr>
-            <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aditorito&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" display=block width=100% height=auto alt="1"></td>
+            <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaSoni131&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" display=block width=100% height=auto alt="1"></td>
 
     </tr>
 </table>
